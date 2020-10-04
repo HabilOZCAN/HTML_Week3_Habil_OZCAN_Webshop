@@ -1,0 +1,25 @@
+/*here just tried basic colouring */
+
+figure{
+    border-radius: 40px;
+}
+
+table{
+    background-color: aquamarine;
+}
+
+nav{
+    background-color: #F0055F;
+}
+
+.headerHO {
+    background-color: rgba(227, 122, 52, 1);
+}
+
+#header00{
+    background-color: rgba(240, 5, 95, 1);
+}
+body{
+    background-color: darkslateblue;
+}
+
