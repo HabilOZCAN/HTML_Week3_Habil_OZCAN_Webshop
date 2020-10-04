@@ -1,0 +1,4 @@
+#Ignore logs folder!
+logs/
+#Ignore all text files!
+*.txt
